@@ -120,10 +120,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Made with ❤️ using Go.
 
-If you'd like help improving this README, or want me to open a pull request that replaces `test.go` with `main.go` and adds a simple `go.mod`, say the word and I can prepare the changes.
-
-
-
-
+---
 
 
